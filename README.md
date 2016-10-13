@@ -4,38 +4,38 @@
 
 ###makerfaire roma 2016
 
-####more info @
-_http://www.instructables.com/id/HELPMAN-CLOCK/?ALLSTEPS_
+####more info @ _http://www.instructables.com/id/HELPMAN-CLOCK/?ALLSTEPS_
 
 
-Il progetto è composto da due parti
+Il progetto è composto da due parti  
+
 
 **HELPMAN CLOCK**  
-Il codice si trova nella directory clock
+Il codice si trova nella directory _clock_
 Firmware per Arduino Nano + LCD Nokia5110 + HC05 + DFplayer MiniMP3
 
 
 **HELPMAN DISPENSER**  
-Il codice si trova nella directory dispenser
-Python script per Intel Edison
-Bash script wrapper da inserire sul crontab @reboot
+Il codice si trova nella directory _dispenser_  
+Python script per Intel Edison  
+Bash script wrapper da inserire in crontab @reboot
 
 
 **HELPMAN ANDROID APP**  
-Il codice si trova nella directory android_app \n
-creata con App Inventor http://appinventor.mit.edu/explore/
+Il codice si trova nella directory android_app  
+creata con App Inventor _http://appinventor.mit.edu/explore/_
 
 
 **IMPORTANTE!!!**  
 Customizzare prima dell'uso  
-dispenser/btconnect.sh AND dispenser/btdisconnect.sh
+_dispenser/btconnect.sh_ AND _dispenser/btdisconnect.sh_  
 Inserisci qui dentro il mac address del device bluetooth  
-ADDRESS="00:00:00:00:00:00"
+*ADDRESS="00:00:00:00:00:00"*
 
 
-dispenser/readconfig.py AND savedata.py  
+_dispenser/readconfig.py_ AND _dispenser/savedata.py_  
 Inserisci qui l'url dello spreadsheet google  
-url="https://docs.google.com/spreadsheets/blablabla"
+*url="https://docs.google.com/spreadsheets/blablabla"*
 
 
 Lo stesso URL va configurato all'interno dell'APP helpman clock per ANDROID  
