@@ -1,5 +1,28 @@
- 
- int i=67;
+#include <LCD5110_Graph.h>
+LCD5110 myGLCD(7,8,9,10,11);
+extern uint8_t SmallFont[];
+extern uint8_t MediumNumbers[];
+extern uint8_t BigNumbers[];
+
+
+void setupLcd (void);
+
+void setupLcd (){
+  
+    myGLCD.InitLCD();
+    myGLCD.setContrast(65);  
+    myGLCD.setFont(SmallFont);  
+    myGLCD.print("BPM", 66, 15);
+    myGLCD.printNumI(bpm, 68, 23);
+    drawHeart ();
+    myGLCD.update();
+
+  }
+
+
+
+
+int i=69;
  int j=0;
  
  void drawHeart (void);
@@ -44,3 +67,4 @@
   myGLCD.clrLine(i+7, j+13, i+8, j+13);
   myGLCD.update();
   }
+  

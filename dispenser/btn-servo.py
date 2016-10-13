@@ -6,11 +6,13 @@ import sys
 import mraa
 import os
 
+# servo physical config
 b = mraa.Gpio(8)
 b.dir(mraa.DIR_IN)
 
 servoOpen=False
 
+# main loop
 while True:
 	btnStatus=b.read()
 	if btnStatus == 1:
