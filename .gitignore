@@ -1,3 +1,9 @@
+# py
+.pyc
+
+# log
+*.log
+
 # Object files
 *.o
 *.ko
