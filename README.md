@@ -1,4 +1,4 @@
-![LOGO](img/logo.jpg?raw=true "Helpman Clock" {width=360px)
+![LOGO](img/logo.jpg?raw=true "Helpman Clock" {width=360px})
 
 #HELPMAN CLOCK
 
