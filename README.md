@@ -11,7 +11,7 @@ Il progetto è composto da due parti
 
 
 **HELPMAN CLOCK**  
-Il codice si trova nella directory _clock_
+Il codice si trova nella directory _clock_  
 Firmware per Arduino Nano + LCD Nokia5110 + HC05 + DFplayer MiniMP3
 
 
@@ -39,4 +39,4 @@ Inserisci qui l'url dello spreadsheet google
 
 
 Lo stesso URL va configurato all'interno dell'APP helpman clock per ANDROID  
-tramite le opzioni di configurazione.
+tramite le opzioni di configurazione. Insieme alle API.
