@@ -1,20 +1,5 @@
 #!/usr/bin/env python
 
-"""
-Sweep.py
-
-This example shows how to use a servo motor attached to a PWM pin.
-
-This example code is in the public domain.
-
-Revision History
-----------------------------------------------------------
-    Author		   Date		  Description
-----------------------------------------------------------
-Diego Villalobos	02-12-2015	Example created
-
-"""
-
 # Libraries required
 from Servo import *
 import time
@@ -34,12 +19,12 @@ print ""
 try:
     # Sweeps the servo motor forever
     while True:
-        # From 0 to 180 degrees
+        # From 0 to 90 degrees
         for angle in range(0,90):
             myServo.write(angle)
             time.sleep(0.005)
 
-        # From 180 to 0 degrees
+        # From 90 to 0 degrees
         for angle in range(90,-1,-1):
             myServo.write(angle)
             time.sleep(0.005)

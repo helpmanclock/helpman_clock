@@ -1,5 +1,9 @@
 #!/usr/bin/python
 
+# helpan clock
+# readconfig
+
+# libraries
 from __future__ import absolute_import, print_function, unicode_literals
 
 import os
@@ -16,7 +20,8 @@ http = urllib3.PoolManager(cert_reqs='CERT_REQUIRED',ca_certs=certifi.where())
 import requests.packages.urllib3
 requests.packages.urllib3.disable_warnings()
 
-url="https://docs.google.com/spreadsheets/d/17qZXfkFRPxbnqvSe4CR9IbxmuDdIZ_Rgv-8CzkJ99EE/export?format=csv"
+# INSERISCI QUI L'URL DELLO SPREADSHEET GOOGLE
+url="https://docs.google.com/spreadsheets/d/format=csv"
 #print("Reading data... ")
 r = requests.get(url, verify=False)
 #print("Response:")

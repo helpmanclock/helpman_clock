@@ -1,5 +1,8 @@
 #!/usr/bin/python
 
+# bluetooth manager
+
+# libraries
 from __future__ import absolute_import, print_function, unicode_literals
 from optparse import OptionParser, make_option
 
@@ -19,8 +22,10 @@ except ImportError:
 import mraa
 import time
 
+# setup gpio
 x = mraa.Gpio(13)
 x.dir(mraa.DIR_OUT)
+
 
 def readSock(sock):
 
@@ -152,6 +157,7 @@ class Profile(dbus.service.Object):
 			os.close(self.fd)
 			self.fd = -1
 
+# main loop
 if __name__ == '__main__':
 
 	print("Waiting for connections...")
@@ -215,4 +221,3 @@ if __name__ == '__main__':
 	manager.RegisterProfile(options.path, options.uuid, opts)
 
 	mainloop.run()
-

@@ -1,5 +1,8 @@
 #!/usr/bin/env python
 
+# trigger button for helpman dispenser
+# [to refill dispenser, for example]
+
 # Libraries required
 import time
 import sys

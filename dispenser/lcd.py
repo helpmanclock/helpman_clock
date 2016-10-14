@@ -9,6 +9,7 @@
 # http://iotdk.intel.com/docs/master/upm/python/modules.html
 # http://iotdk.intel.com/docs/master/upm/python/_modules/pyupm_i2clcd.html
 
+# libraries
 import pyupm_i2clcd as lcd
 import time
 import random
