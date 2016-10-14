@@ -6,9 +6,7 @@
 
 ####more info @ _http://www.instructables.com/id/HELPMAN-CLOCK/?ALLSTEPS_
 
-
-Il progetto è composto da due parti  
-
+Il progetto è composto dal CLOCK e dal DISPENSER.  
 
 **HELPMAN CLOCK**  
 Il codice si trova nella directory _clock_  
@@ -23,7 +21,9 @@ Bash script wrapper da inserire in crontab @reboot
 
 **HELPMAN ANDROID APP**  
 Il codice si trova nella directory android_app  
-creata con App Inventor _http://appinventor.mit.edu/explore/_
+creata con App Inventor _http://appinventor.mit.edu/explore/_  
+All'interno della cartella trovate anche l'APK per installare l'app sul vostro smartphone Android.
+
 
 
 **IMPORTANTE!!!**  
@@ -39,4 +39,4 @@ Inserisci qui l'url dello spreadsheet google
 
 
 Lo stesso URL va configurato all'interno dell'APP helpman clock per ANDROID  
-tramite le opzioni di configurazione. Insieme alle API.
+tramite le opzioni di configurazione. Insieme alle API.  
