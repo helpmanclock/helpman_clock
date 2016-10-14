@@ -4,9 +4,16 @@
 
 ###makerfaire roma 2016
 
-####more info @ _http://www.instructables.com/id/HELPMAN-CLOCK/?ALLSTEPS_
+####more info  
+Instructables @ _http://www.instructables.com/id/HELPMAN-CLOCK/?ALLSTEPS_  
+Intel DevMesh @ _http://www.intel.it/content/www/it/it/events/progetti-helpman-clock.html_  
+Youtube @ _https://www.youtube.com/watch?v=3aIBsPesC3Q_
 
-Il progetto è composto dal CLOCK e dal DISPENSER.  
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=3aIBsPesC3Q_"
+target="_blank"><img src="http://img.youtube.com/vi/3aIBsPesC3Q_/0.jpg" 
+alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a>
+
+Il progetto **HELPMAN** è composto da un **CLOCK**, un **DISPENSER** e una **APP ANDROID**.
 
 **HELPMAN CLOCK**  
 Il codice si trova nella directory _clock_  
@@ -16,7 +23,7 @@ Firmware per Arduino Nano + LCD Nokia5110 + HC05 + DFplayer MiniMP3
 **HELPMAN DISPENSER**  
 Il codice si trova nella directory _dispenser_  
 Python script per Intel Edison  
-Bash script wrapper da inserire in crontab @reboot
+Bash script wrapper da inserire in crontab @reboot per l'avvio automatico dell'applicazione.  
 
 
 **HELPMAN ANDROID APP**  
@@ -39,4 +46,5 @@ Inserisci qui l'url dello spreadsheet google
 
 
 Lo stesso URL va configurato all'interno dell'APP helpman clock per ANDROID  
-tramite le opzioni di configurazione. Insieme alle API.  
+tramite le opzioni di configurazione, insieme alle API. [in fase di building]  
+
