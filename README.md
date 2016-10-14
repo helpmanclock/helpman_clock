@@ -1,3 +1,5 @@
+![alt text](https:// "Logo Title Text 1")
+
 #HELPMAN CLOCK
 
 ##FABLAB PALERMO - MAKEIT INTEL CONTEST - FABLAB TOUR
@@ -8,10 +10,6 @@
 Instructables @ _http://www.instructables.com/id/HELPMAN-CLOCK/?ALLSTEPS_  
 Intel DevMesh @ _http://www.intel.it/content/www/it/it/events/progetti-helpman-clock.html_  
 Youtube @ _https://www.youtube.com/watch?v=3aIBsPesC3Q_
-
-<a href="http://www.youtube.com/watch?feature=player_embedded&v=3aIBsPesC3Q_ 
-" target="_blank"><img src="http://img.youtube.com/vi/3aIBsPesC3Q_/0.jpg" 
-alt="HELPMAN CLOCK VIDEO" width="240" height="180" border="10" /></a>
 
 Il progetto **HELPMAN** è composto da un **CLOCK**, un **DISPENSER** e una **APP ANDROID**.
 
