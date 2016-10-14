@@ -20,7 +20,7 @@ import requests.packages.urllib3
 requests.packages.urllib3.disable_warnings()
 
 data=sys.argv[1]
-url="https://docs.google.com/forms/d/e/1FAIpQLSe8ORN_2OexWWgcVet520kGFduTgfkUVTNScw3mE6BLuQ1veg/formResponse"
+url="https://docs.google.com/forms/d/e/BLABLA/formResponse"
 payload={"entry.1755718560" : data }
 print("Saving data... " + data)
 r = requests.post(url, data=payload, verify=False)
