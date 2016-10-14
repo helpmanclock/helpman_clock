@@ -1,4 +1,4 @@
-![alt text](https://github.com/helpmanclock/helpman_clock/blob/master/img/logo.jpg "Logo HelpMan Clock")
+![LOGO](img/logo.jpg?raw=true "Helpman Clock" {width=360px)
 
 #HELPMAN CLOCK
 
