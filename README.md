@@ -1,4 +1,4 @@
-![LOGO](img/logo.jpg?raw=true "Helpman Clock" | width=100)
+![LOGO](img/logo.jpg "Helpman Clock" | width=100)
 
 #HELPMAN CLOCK
 
@@ -46,3 +46,9 @@ Inserisci qui l'url dello spreadsheet google
 Lo stesso URL va configurato all'interno dell'APP helpman clock per ANDROID  
 tramite le opzioni di configurazione, insieme alle API. [in fase di building]  
 
+
+## Screenshots
+
+<a href="">Android App<img src="img/app1.jpg" width="480px"></a>
+<a href=""><img src="img/app2.jpg" width="480px"></a>
+<a href=""><img src="img/app3.jpg" width="480px"></a>
