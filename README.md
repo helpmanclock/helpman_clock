@@ -1,4 +1,4 @@
-![LOGO](https://github.com/helpmanclock/helpman_clock/blob/master/img/logo.jpg "Helpman Clock" | width=100)
+![LOGO](https://github.com/helpmanclock/helpman_clock/blob/master/img/logo.jpg =320x240)
 
 #HELPMAN CLOCK
 
