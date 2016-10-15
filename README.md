@@ -1,4 +1,4 @@
-![LOGO](img/logo.jpg "Helpman Clock"){: width=200px}
+![LOGO](img/logo.jpg "Helpman Clock")
 
 #HELPMAN CLOCK
 
@@ -49,7 +49,11 @@ tramite le opzioni di configurazione, insieme alle API. [in fase di building]
 
 ## Screenshots
 
-<a href="">Android App<img src="img/app1.jpg" width="480px"></a>
-<a href=""><img src="img/app2.jpg" width="480px"></a>
-<a href=""><img src="img/app3.jpg" width="480px"></a>
+_Schermata principale_
+![MAIN](img/app1.jpg "Main")
 
+_Schedule Settings_
+![SCHEDULE](img/app2.jpg "Scheduling")
+
+_Pills Dispenser_
+![PILLS](img/app3.jpg "Pills")
