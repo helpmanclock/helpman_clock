@@ -1,4 +1,4 @@
-![LOGO](img/logo.jpg "Helpman Clock" | width=100)
+![LOGO](https://github.com/helpmanclock/helpman_clock/blob/master/img/logo.jpg "Helpman Clock" | width=100)
 
 #HELPMAN CLOCK
 
@@ -52,3 +52,4 @@ tramite le opzioni di configurazione, insieme alle API. [in fase di building]
 <a href="">Android App<img src="img/app1.jpg" width="480px"></a>
 <a href=""><img src="img/app2.jpg" width="480px"></a>
 <a href=""><img src="img/app3.jpg" width="480px"></a>
+
