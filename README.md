@@ -1,6 +1,6 @@
-![LOGO](img/logo.jpg "Helpman Clock")
-
 #HELPMAN CLOCK
+
+![LOGO](img/logo.jpg "Helpman Clock")
 
 ##FABLAB PALERMO - MAKEIT INTEL CONTEST - FABLAB TOUR
 
