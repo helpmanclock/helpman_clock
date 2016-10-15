@@ -1,4 +1,4 @@
-![LOGO](img/logo.jpg =320x240)
+![LOGO](img/logo.jpg "Helpman Clock"){: width=200px}
 
 #HELPMAN CLOCK
 
